@@ -1,4 +1,4 @@
-# Subjective_affective_arousal_signature
+# Brain_affective_arousal_signature
 This repository contains code used to devlop and test the brain affective arousal signature (BAAS). See Zhang, et al. 2024 BioRxiv for details.
 
 # Dependencies: These should be installed to use this code
